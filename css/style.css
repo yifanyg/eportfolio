@@ -3986,7 +3986,7 @@ body {
 .top-nav > li > a,
 .top-nav-vertical li a,
 .mobile-nav li a {
-    /*background-color: rgba(255, 255, 255, 0);*/
+    background-color: rgba(255, 255, 255, 0);
     color: #444444;
 }
 
@@ -4114,7 +4114,7 @@ body {
 }
 
 .m-nav-fold i {
-    background-color: rgba(245, 245, 245, 1);
+    /*background-color: rgba(245, 245, 245, 1);*/
     color: #222222;
 }
 
