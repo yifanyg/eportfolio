@@ -650,7 +650,7 @@ i.fa {
 
 .mobile-nav > li > .sub-menu,
 .mobile-nav > li > .sub-menu-wrap {
-	opacity: 1;
+	/*opacity: 1;*/
 }
 
 .mobile-nav > li > .sub-menu a,
