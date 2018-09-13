@@ -2022,9 +2022,11 @@ ul.filters li a {
 }
 
 .nxt-prev-post {
-	float: right;
-	width: 25%;
+	width: 100%;
 	text-align: right;
+}
+.previous-post{
+	float: left;
 }
 
 .next-post,
